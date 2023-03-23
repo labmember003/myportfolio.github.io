@@ -1,0 +1,38 @@
+body {
+  background-color: #EAF6F6;
+  height: 200px;
+}
+h1 {
+  color: #66BFBF;
+  font-family: cursive,"Brush Script MT", Times, serif;
+}
+h3 {
+  color: #66BFBF;
+  font-family: cursive,"Brush Script MT", Times, serif;
+  text-align: center;
+}
+div {
+  text-align: center;
+}
+ul {
+  display: inline-block;
+  text-align: left;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  height: 0;
+  width: 5%
+}
+img {
+  height: 180px;
+}
+fontNsize {
+  color: #66BFBF;
+  font-family: cursive,"Brush Script MT", Times, serif;
+}
+#SmallHeadings{
+  color: blue;
+}
